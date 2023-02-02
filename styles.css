@@ -1,0 +1,37 @@
+body {
+    background-color: #E3BEC6;
+}
+
+.blue {
+    font-size: 65px;
+    color: #1572A1;
+}
+.bluek{
+    color:red;
+}
+.bluel{
+    color:blue;
+}
+
+.bej {
+    background-color: #EFDAD7;
+}
+.red{
+    font-size: 100px;
+    color: red;
+}
+.akteri{
+    color: black;
+}
+.btn{
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: aqua;
+    padding: 10px;
+    cursor: pointer;
+
+    transition-duration: 2s;
+}
+.btn:hover {
+    background-color: bisque;
+    }
